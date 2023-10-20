@@ -1,0 +1,38 @@
+.wid{
+    width: 70px;
+    height: 120px;
+}
+.mar-top{
+    margin-top: 10px;
+}
+.button-radi{
+    border-radius: 0px;
+}
+.hori-line{
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.foot-head{
+    margin-bottom: 45px;
+}
+.foot-info{
+    text-decoration: none;
+    color: rgb(56, 55, 55); 
+    font-size: 15px;
+    
+}
+.email-button{
+    height: 40px;
+    border:1px solid rgb(56, 55, 55);
+    width: 220px;
+    padding-left: 10px;
+
+}
+.sign-buton{
+    height: 40px;
+    color: white;
+    background-color: rgb(56, 55, 55)  ;
+    border: none;
+}
